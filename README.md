@@ -1,2 +1,2 @@
 # SBMBF
-SpringBoot-MyBatis-fx67ll
+springboot-mybatis-fx67ll
